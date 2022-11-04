@@ -1,0 +1,5 @@
+{
+    "sketch": "Exercício_IAC_1\\exercicio_iac_1.ino",
+    "configuration": "cpu=atmega168",
+    "board": "arduino:avr:atmegang"
+}
